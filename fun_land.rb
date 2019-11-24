@@ -1,10 +1,10 @@
-File.write("rewards_seeds.txt")
+File.open("rewards_seeds.txt")
 
 require 'faker'
 
 item_name = Faker::Book.title
-tokens = rand(5...5000)
-availability = Boolean
+tokens = Random.rand(5...5000)
+availabile = Boolean
 
 
 75.times do |i|
