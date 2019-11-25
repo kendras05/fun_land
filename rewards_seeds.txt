@@ -1,1 +1,1 @@
-INSERT INTO rewards (item_name, tokens, available) VALUES (gnat, 1202, false);
+INSERT INTO rewards (item_name, tokens, available) VALUES ('tiger', 1331, false);

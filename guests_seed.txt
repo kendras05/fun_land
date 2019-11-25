@@ -1,1 +1,1 @@
-INSERT INTO guests (name, tokens) VALUES (Hipolito Haley, 9549);
+INSERT INTO guests (name, tokens) VALUES ('Claretta Funk', 6680);
